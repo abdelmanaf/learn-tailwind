@@ -6,8 +6,8 @@ It was an amazing experience for me.
 
 
 ## Deployment link:
-[Live link](https://abdelmanaf.github.io/learn-tailwind)
-[https://abdelmanaf.github.io/learn-tailwin](https://abdelmanaf.github.io/learn-tailwind)
+[Live link](https://abdelmanaf.github.io/learn-tailwind/)
+[https://abdelmanaf.github.io/learn-tailwin](https://abdelmanaf.github.io/learn-tailwind/)
 
 
 
