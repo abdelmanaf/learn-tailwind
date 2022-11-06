@@ -1,7 +1,7 @@
-#Build this project with tailwind
+# Build this project with tailwind
 ---
 
-I was asked by a client to build this **figma project** with ==tailwind== . 
+I was asked by a client to build this **figma project** with == tailwind == . 
 It was an amazing experience for me.
 
 
@@ -12,7 +12,7 @@ It was an amazing experience for me.
 
 <br>
 
-###Technogies used
+### Technogies used
 
 - HTML 
 
